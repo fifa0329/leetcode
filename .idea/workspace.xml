@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f8902e6-fbcd-4b87-aa89-c0afd57fa832" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RemoveElement.java" afterPath="$PROJECT_DIR$/RemoveElement.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PlusOne.java" afterPath="$PROJECT_DIR$/PlusOne.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray.java" afterPath="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray.java" />
     </list>
     <ignored path="Leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,11 +29,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RemoveElement.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RemoveElement.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RemoveElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.0689654" vertical-offset="0" max-vertical-offset="1620">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1620">
               <caret line="100" column="10" selection-start-line="100" selection-start-column="10" selection-end-line="100" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveDuplicatesfromSortedArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1375" max-vertical-offset="2115">
+              <caret line="133" column="10" selection-start-line="133" selection-start-column="10" selection-end-line="133" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlusOne.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PlusOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9724138" vertical-offset="435" max-vertical-offset="2055">
+              <caret line="76" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -52,6 +73,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/RemoveElement.java" />
+        <option value="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray.java" />
+        <option value="$PROJECT_DIR$/PlusOne.java" />
       </list>
     </option>
   </component>
@@ -579,12 +602,12 @@
       <updated>1418456856180</updated>
       <workItem from="1420296051457" duration="75000" />
       <workItem from="1420296142284" duration="19000" />
-      <workItem from="1420870316848" duration="1486000" />
+      <workItem from="1420870316848" duration="4904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1580000" />
+    <option name="totallyTimeSpent" value="4998000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -825,8 +848,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RemoveElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.0689654" vertical-offset="0" max-vertical-offset="1620">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1620">
           <caret line="100" column="10" selection-start-line="100" selection-start-column="10" selection-end-line="100" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1375" max-vertical-offset="2115">
+          <caret line="133" column="10" selection-start-line="133" selection-start-column="10" selection-end-line="133" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlusOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9724138" vertical-offset="435" max-vertical-offset="2055">
+          <caret line="76" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
           <folding />
         </state>
       </provider>
