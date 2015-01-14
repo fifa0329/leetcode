@@ -127,8 +127,10 @@ public class RemoveNthNodeFromEndofList {
         //陷入了细节之中，肯定过不了了
         
         //为什么我用数学的方法会错那？？？
-        //1，我没有考虑到null
-        //2，（1，2）2
+        //1，我没有考虑到null，像写        toDelete.next=toDelete.next.next;这种东西的时候一定要判断会不会是null
+        //2，应该大概了解到头也可能被删掉，所以我们需要一个root来管理头
+
+    
 
 
 

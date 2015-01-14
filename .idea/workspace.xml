@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8f8902e6-fbcd-4b87-aa89-c0afd57fa832" name="Default" comment="removeNth">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RemoveNthNodeFromEndofList.java" afterPath="$PROJECT_DIR$/RemoveNthNodeFromEndofList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,8 +53,8 @@
       <file leaf-file-name="RemoveNthNodeFromEndofList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RemoveNthNodeFromEndofList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.76551723" vertical-offset="1110" max-vertical-offset="2295">
-              <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.8896552" vertical-offset="1305" max-vertical-offset="2325">
+              <caret line="130" column="11" selection-start-line="130" selection-start-column="11" selection-end-line="130" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -661,7 +660,7 @@
       <workItem from="1420870316848" duration="6048000" />
       <workItem from="1420898641267" duration="9969000" />
       <workItem from="1421239563300" duration="3303000" />
-      <workItem from="1421246393964" duration="1004000" />
+      <workItem from="1421246393964" duration="1175000" />
     </task>
     <task id="LOCAL-00001" summary="removeNth">
       <created>1421245253969</created>
@@ -673,7 +672,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20418000" />
+    <option name="totallyTimeSpent" value="20589000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1153,8 +1152,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RemoveNthNodeFromEndofList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76551723" vertical-offset="1110" max-vertical-offset="2295">
-          <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.8896552" vertical-offset="1305" max-vertical-offset="2325">
+          <caret line="130" column="11" selection-start-line="130" selection-start-column="11" selection-end-line="130" selection-end-column="11" />
           <folding />
         </state>
       </provider>
