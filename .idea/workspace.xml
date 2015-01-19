@@ -2,8 +2,161 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f8902e6-fbcd-4b87-aa89-c0afd57fa832" name="Default" comment="removeNth">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AddBinary.java" afterPath="$PROJECT_DIR$/AddBinary.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AddTwoNumbers.java" afterPath="$PROJECT_DIR$/AddTwoNumbers.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Anagrams.java" afterPath="$PROJECT_DIR$/Anagrams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BalancedBinaryTree.java" afterPath="$PROJECT_DIR$/BalancedBinaryTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BestTimetoBuyandSellStock.java" afterPath="$PROJECT_DIR$/BestTimetoBuyandSellStock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BestTimetoBuyandSellStockII.java" afterPath="$PROJECT_DIR$/BestTimetoBuyandSellStockII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BestTimetoBuyandSellStockIII.java" afterPath="$PROJECT_DIR$/BestTimetoBuyandSellStockIII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BinaryTreeInorderTraversal.java" afterPath="$PROJECT_DIR$/BinaryTreeInorderTraversal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BinaryTreeLevelOrderTraversalII.java" afterPath="$PROJECT_DIR$/BinaryTreeLevelOrderTraversalII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BinaryTreeMaximumPathSum.java" afterPath="$PROJECT_DIR$/BinaryTreeMaximumPathSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BinaryTreePostorderTraversal.java" afterPath="$PROJECT_DIR$/BinaryTreePostorderTraversal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BinaryTreePreorderTraversal.java" afterPath="$PROJECT_DIR$/BinaryTreePreorderTraversal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Candy.java" afterPath="$PROJECT_DIR$/Candy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ClimbingStairs.java" afterPath="$PROJECT_DIR$/ClimbingStairs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CloneGraph.java" afterPath="$PROJECT_DIR$/CloneGraph.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CombinationSum.java" afterPath="$PROJECT_DIR$/CombinationSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CombinationSumII.java" afterPath="$PROJECT_DIR$/CombinationSumII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Combinations.java" afterPath="$PROJECT_DIR$/Combinations.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConstructBinaryTreefromInorderandPostorderTraversal.java" afterPath="$PROJECT_DIR$/ConstructBinaryTreefromInorderandPostorderTraversal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConstructBinaryTreefromPreorderAndInorderTraversal.java" afterPath="$PROJECT_DIR$/ConstructBinaryTreefromPreorderAndInorderTraversal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ContainerWithMostWater.java" afterPath="$PROJECT_DIR$/ContainerWithMostWater.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConvertSortedArraytoBinarySearchTree.java" afterPath="$PROJECT_DIR$/ConvertSortedArraytoBinarySearchTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConvertSortedListtoBinarySearchTree.java" afterPath="$PROJECT_DIR$/ConvertSortedListtoBinarySearchTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CopyListwithRandomPointer.java" afterPath="$PROJECT_DIR$/CopyListwithRandomPointer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CountandSay.java" afterPath="$PROJECT_DIR$/CountandSay.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DecodeWays.java" afterPath="$PROJECT_DIR$/DecodeWays.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DistinctSubsequences.java" afterPath="$PROJECT_DIR$/DistinctSubsequences.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DivideTwoIntegers.java" afterPath="$PROJECT_DIR$/DivideTwoIntegers.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EditDistance.java" afterPath="$PROJECT_DIR$/EditDistance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EvaluateReversePolishNotation.java" afterPath="$PROJECT_DIR$/EvaluateReversePolishNotation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FirstMissingPositive.java" afterPath="$PROJECT_DIR$/FirstMissingPositive.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlattenBinaryTreetoLinkedList.java" afterPath="$PROJECT_DIR$/FlattenBinaryTreetoLinkedList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FourSum.java" afterPath="$PROJECT_DIR$/FourSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GasStation.java" afterPath="$PROJECT_DIR$/GasStation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GenerateParentheses.java" afterPath="$PROJECT_DIR$/GenerateParentheses.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GrayCode.java" afterPath="$PROJECT_DIR$/GrayCode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImplementStrStr.java" afterPath="$PROJECT_DIR$/ImplementStrStr.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InsertInterval.java" afterPath="$PROJECT_DIR$/InsertInterval.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InsertionSortList.java" afterPath="$PROJECT_DIR$/InsertionSortList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IntegertoRoman.java" afterPath="$PROJECT_DIR$/IntegertoRoman.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InterleavingString.java" afterPath="$PROJECT_DIR$/InterleavingString.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interval.java" afterPath="$PROJECT_DIR$/Interval.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JumpGame.java" afterPath="$PROJECT_DIR$/JumpGame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JumpGameII.java" afterPath="$PROJECT_DIR$/JumpGameII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LRUCache.java" afterPath="$PROJECT_DIR$/LRUCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LargestRectangleinHistogram.java" afterPath="$PROJECT_DIR$/LargestRectangleinHistogram.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LengthofLastWord.java" afterPath="$PROJECT_DIR$/LengthofLastWord.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LetterCombinationsofaPhoneNumber.java" afterPath="$PROJECT_DIR$/LetterCombinationsofaPhoneNumber.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LinkedListCycle.java" afterPath="$PROJECT_DIR$/LinkedListCycle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LinkedListCycleII.java" afterPath="$PROJECT_DIR$/LinkedListCycleII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ListNode.java" afterPath="$PROJECT_DIR$/ListNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LongestCommonPrefix.java" afterPath="$PROJECT_DIR$/LongestCommonPrefix.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LongestConsecutiveSequence.java" afterPath="$PROJECT_DIR$/LongestConsecutiveSequence.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LongestPalindromicSubstring.java" afterPath="$PROJECT_DIR$/LongestPalindromicSubstring.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LongestSubstringWithoutRepeatingCharacters.java" afterPath="$PROJECT_DIR$/LongestSubstringWithoutRepeatingCharacters.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LongestValidParentheses.java" afterPath="$PROJECT_DIR$/LongestValidParentheses.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LowestCommonAncestorOfBinaryTree.java" afterPath="$PROJECT_DIR$/LowestCommonAncestorOfBinaryTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LowestCommonAncestorOfaBinarySearchTree.java" afterPath="$PROJECT_DIR$/LowestCommonAncestorOfaBinarySearchTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MajorityElement.java" afterPath="$PROJECT_DIR$/MajorityElement.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MaxPointsOnALine.java" afterPath="$PROJECT_DIR$/MaxPointsOnALine.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MaximalRectangle.java" afterPath="$PROJECT_DIR$/MaximalRectangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MaximumDepthOfBinaryTree.java" afterPath="$PROJECT_DIR$/MaximumDepthOfBinaryTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MaximumSubarray.java" afterPath="$PROJECT_DIR$/MaximumSubarray.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MedianOfTwoSortedArrays.java" afterPath="$PROJECT_DIR$/MedianOfTwoSortedArrays.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MergeIntervals.java" afterPath="$PROJECT_DIR$/MergeIntervals.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MergeSortedArray.java" afterPath="$PROJECT_DIR$/MergeSortedArray.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MergeTwoSortedLists.java" afterPath="$PROJECT_DIR$/MergeTwoSortedLists.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MergekSortedLists.java" afterPath="$PROJECT_DIR$/MergekSortedLists.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MinimumDepthofBinaryTree.java" afterPath="$PROJECT_DIR$/MinimumDepthofBinaryTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MinimumPathSum.java" afterPath="$PROJECT_DIR$/MinimumPathSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MinimumWindowSubstring.java" afterPath="$PROJECT_DIR$/MinimumWindowSubstring.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiplyStrings.java" afterPath="$PROJECT_DIR$/MultiplyStrings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NQueens.java" afterPath="$PROJECT_DIR$/NQueens.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NQueensII.java" afterPath="$PROJECT_DIR$/NQueensII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NextPermutation.java" afterPath="$PROJECT_DIR$/NextPermutation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PalindromeNumber.java" afterPath="$PROJECT_DIR$/PalindromeNumber.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PalindromePartitioning.java" afterPath="$PROJECT_DIR$/PalindromePartitioning.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PalindromePartitioningII.java" afterPath="$PROJECT_DIR$/PalindromePartitioningII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PartitionList.java" afterPath="$PROJECT_DIR$/PartitionList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PascalTriangle.java" afterPath="$PROJECT_DIR$/PascalTriangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PascalsTriangleII.java" afterPath="$PROJECT_DIR$/PascalsTriangleII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PathSum.java" afterPath="$PROJECT_DIR$/PathSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PathSumII.java" afterPath="$PROJECT_DIR$/PathSumII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PermutationSequence.java" afterPath="$PROJECT_DIR$/PermutationSequence.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PermutationsII.java" afterPath="$PROJECT_DIR$/PermutationsII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PlusOne.java" afterPath="$PROJECT_DIR$/PlusOne.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Point.java" afterPath="$PROJECT_DIR$/Point.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PopulatingNextRightPointersinEachNode.java" afterPath="$PROJECT_DIR$/PopulatingNextRightPointersinEachNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PopulatingNextRightPointersinEachNodeII.java" afterPath="$PROJECT_DIR$/PopulatingNextRightPointersinEachNodeII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PowXN.java" afterPath="$PROJECT_DIR$/PowXN.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RandomListNode.java" afterPath="$PROJECT_DIR$/RandomListNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RecoverBinarySearchTree.java" afterPath="$PROJECT_DIR$/RecoverBinarySearchTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RegularExpressionMatching.java" afterPath="$PROJECT_DIR$/RegularExpressionMatching.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RemoveDuplicatesFromSortedArrayII.java" afterPath="$PROJECT_DIR$/RemoveDuplicatesFromSortedArrayII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray.java" afterPath="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RemoveDuplicatesfromSortedList.java" afterPath="$PROJECT_DIR$/RemoveDuplicatesfromSortedList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RemoveDuplicatesfromSortedListII.java" afterPath="$PROJECT_DIR$/RemoveDuplicatesfromSortedListII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RemoveElement.java" afterPath="$PROJECT_DIR$/RemoveElement.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RemoveNthNodeFromEndofList.java" afterPath="$PROJECT_DIR$/RemoveNthNodeFromEndofList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RemoveSuperInterval.java" afterPath="$PROJECT_DIR$/RemoveSuperInterval.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReorderList.java" afterPath="$PROJECT_DIR$/ReorderList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestoreIPAddresses.java" afterPath="$PROJECT_DIR$/RestoreIPAddresses.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReverseInteger.java" afterPath="$PROJECT_DIR$/ReverseInteger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReverseLinkedListII.java" afterPath="$PROJECT_DIR$/ReverseLinkedListII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReverseNodesinkGroup.java" afterPath="$PROJECT_DIR$/ReverseNodesinkGroup.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RomantoInteger.java" afterPath="$PROJECT_DIR$/RomantoInteger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RotateImage.java" afterPath="$PROJECT_DIR$/RotateImage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RotateList.java" afterPath="$PROJECT_DIR$/RotateList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SameTree.java" afterPath="$PROJECT_DIR$/SameTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScrambleString.java" afterPath="$PROJECT_DIR$/ScrambleString.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SearchInsertPosition.java" afterPath="$PROJECT_DIR$/SearchInsertPosition.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Searcha2DMatrix.java" afterPath="$PROJECT_DIR$/Searcha2DMatrix.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SearchforaRange.java" afterPath="$PROJECT_DIR$/SearchforaRange.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SearchinRotatedSortedArray.java" afterPath="$PROJECT_DIR$/SearchinRotatedSortedArray.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SearchinRotatedSortedArrayII.java" afterPath="$PROJECT_DIR$/SearchinRotatedSortedArrayII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SetMatrixZeroes.java" afterPath="$PROJECT_DIR$/SetMatrixZeroes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimplifyPath.java" afterPath="$PROJECT_DIR$/SimplifyPath.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SingleNumber.java" afterPath="$PROJECT_DIR$/SingleNumber.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SingleNumberII.java" afterPath="$PROJECT_DIR$/SingleNumberII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SortColors.java" afterPath="$PROJECT_DIR$/SortColors.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SortList.java" afterPath="$PROJECT_DIR$/SortList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpiralMatrix.java" afterPath="$PROJECT_DIR$/SpiralMatrix.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sqrtx.java" afterPath="$PROJECT_DIR$/Sqrtx.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StringtoIntegerAtoi.java" afterPath="$PROJECT_DIR$/StringtoIntegerAtoi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Subsets.java" afterPath="$PROJECT_DIR$/Subsets.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SubsetsII.java" afterPath="$PROJECT_DIR$/SubsetsII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SubstringwithConcatenationofAllWords.java" afterPath="$PROJECT_DIR$/SubstringwithConcatenationofAllWords.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SumRoottoLeafNumbers.java" afterPath="$PROJECT_DIR$/SumRoottoLeafNumbers.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SurroundedRegions.java" afterPath="$PROJECT_DIR$/SurroundedRegions.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwapNodesinPairs.java" afterPath="$PROJECT_DIR$/SwapNodesinPairs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SymmetricTree.java" afterPath="$PROJECT_DIR$/SymmetricTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TextJustification.java" afterPath="$PROJECT_DIR$/TextJustification.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeSum.java" afterPath="$PROJECT_DIR$/ThreeSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeSumClosest.java" afterPath="$PROJECT_DIR$/ThreeSumClosest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TrappingRainWater.java" afterPath="$PROJECT_DIR$/TrappingRainWater.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TreeLinkNode.java" afterPath="$PROJECT_DIR$/TreeLinkNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TreeNode.java" afterPath="$PROJECT_DIR$/TreeNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Triangle.java" afterPath="$PROJECT_DIR$/Triangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TwoSum.java" afterPath="$PROJECT_DIR$/TwoSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TwoSumV2.java" afterPath="$PROJECT_DIR$/TwoSumV2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UndirectedGraphNode.java" afterPath="$PROJECT_DIR$/UndirectedGraphNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UniqueBinarySearchTrees.java" afterPath="$PROJECT_DIR$/UniqueBinarySearchTrees.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UniqueBinarySearchTreesII.java" afterPath="$PROJECT_DIR$/UniqueBinarySearchTreesII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UniquePaths.java" afterPath="$PROJECT_DIR$/UniquePaths.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UniquePathsII.java" afterPath="$PROJECT_DIR$/UniquePathsII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ValidNumber.java" afterPath="$PROJECT_DIR$/ValidNumber.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ValidPalindrome.java" afterPath="$PROJECT_DIR$/ValidPalindrome.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ValidParentheses.java" afterPath="$PROJECT_DIR$/ValidParentheses.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ValidateBinarySearchTree.java" afterPath="$PROJECT_DIR$/ValidateBinarySearchTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WordBreak.java" afterPath="$PROJECT_DIR$/WordBreak.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WordBreakII.java" afterPath="$PROJECT_DIR$/WordBreakII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WordLadder.java" afterPath="$PROJECT_DIR$/WordLadder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WordLadderII.java" afterPath="$PROJECT_DIR$/WordLadderII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WordSearch.java" afterPath="$PROJECT_DIR$/WordSearch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZigZagConversion.java" afterPath="$PROJECT_DIR$/ZigZagConversion.java" />
     </list>
     <ignored path="Leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,11 +182,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RemoveNthNodeFromEndofList.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RemoveNthNodeFromEndofList.java">
+      <file leaf-file-name="RemoveDuplicatesfromSortedList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.8" vertical-offset="1380" max-vertical-offset="2355">
-              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.4413793" vertical-offset="640" max-vertical-offset="1365">
+              <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -61,6 +214,7 @@
         <option value="$PROJECT_DIR$/MergeSortedArray.java" />
         <option value="$PROJECT_DIR$/MajorityElement.java" />
         <option value="$PROJECT_DIR$/RemoveNthNodeFromEndofList.java" />
+        <option value="$PROJECT_DIR$/RemoveDuplicatesfromSortedList.java" />
       </list>
     </option>
   </component>
@@ -185,13 +339,14 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="true" />
-    <property name="options.lastSelected" value="reference.settings.project.maven.importing" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="recentsLimit" value="5" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -596,7 +751,7 @@
       <workItem from="1420870316848" duration="6048000" />
       <workItem from="1420898641267" duration="9969000" />
       <workItem from="1421239563300" duration="3303000" />
-      <workItem from="1421246393964" duration="1850000" />
+      <workItem from="1421246393964" duration="5394000" />
     </task>
     <task id="LOCAL-00001" summary="removeNth">
       <created>1421245253969</created>
@@ -608,11 +763,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21264000" />
+    <option name="totallyTimeSpent" value="24808000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -632,7 +787,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24921875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24921875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -674,20 +829,12 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MergeSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1660" max-vertical-offset="2385">
-          <caret line="151" column="9" selection-start-line="151" selection-start-column="9" selection-end-line="151" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MajorityElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="355" max-vertical-offset="1080">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -721,8 +868,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="690">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -748,7 +895,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -774,8 +921,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="690">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -793,9 +940,9 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1335">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#703#718#0" expanded="true" />
-            <element signature="e#807#816#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#727#742#0" expanded="false" />
+            <element signature="e#852#861#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -994,21 +1141,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RemoveElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.0689654" vertical-offset="0" max-vertical-offset="1620">
-          <caret line="100" column="10" selection-start-line="100" selection-start-column="10" selection-end-line="100" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PascalsTriangleII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7517241" vertical-offset="730" max-vertical-offset="1470">
           <caret line="85" column="21" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#522#531#0" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#530#539#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1018,9 +1157,9 @@
         <state vertical-scroll-proportion="0.45517242" vertical-offset="90" max-vertical-offset="1665">
           <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#703#718#0" expanded="true" />
-            <element signature="e#807#816#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#727#742#0" expanded="false" />
+            <element signature="e#852#861#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1038,8 +1177,8 @@
         <state vertical-scroll-proportion="0.12413793" vertical-offset="0" max-vertical-offset="725">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1049,7 +1188,7 @@
         <state vertical-scroll-proportion="0.048275862" vertical-offset="355" max-vertical-offset="1080">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1088,11 +1227,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RemoveNthNodeFromEndofList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8" vertical-offset="1380" max-vertical-offset="2355">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        <state vertical-scroll-proportion="2.524138" vertical-offset="0" max-vertical-offset="1950">
+          <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/RemoveElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95862067" vertical-offset="745" max-vertical-offset="1530">
+          <caret line="96" column="1" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedListII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16551724" vertical-offset="0" max-vertical-offset="725">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4413793" vertical-offset="640" max-vertical-offset="1365">
+          <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.36875" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
