@@ -39,6 +39,7 @@ public class RemoveNthNodeFromEndofList {
         //head应该指向1
         //参考答案
 //        
+        //要用两个一样的长方形来理解这个东西
 //        ListNode root = new ListNode(0);
 //        ListNode fast = root;
 //        ListNode slow = root;
@@ -128,7 +129,8 @@ public class RemoveNthNodeFromEndofList {
         
         //为什么我用数学的方法会错那？？？
         //1，我没有考虑到null，像写        toDelete.next=toDelete.next.next;这种东西的时候一定要判断会不会是null
-        //2，应该大概了解到头也可能被删掉，所以我们需要一个root来管理头
+        //2，应该大概了解到头也可能被删掉，所以我们需要一个root来管理， ListNode newhead = new ListNode(0); newhead.next = head;
+        //3，要用有意义的指针来告诉自己头尾， ListNode begin = newhead; ListNode end = begin;
 
     
 
