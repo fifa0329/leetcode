@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f8902e6-fbcd-4b87-aa89-c0afd57fa832" name="Default" comment="removeNth">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IntersectionofTwoLinkedLists.java" afterPath="$PROJECT_DIR$/IntersectionofTwoLinkedLists.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ValidParentheses.java" afterPath="$PROJECT_DIR$/ValidParentheses.java" />
     </list>
     <ignored path="Leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,15 +68,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntersectionofTwoLinkedLists.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IntersectionofTwoLinkedLists.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IntersectionofTwoLinkedLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.26206896" vertical-offset="550" max-vertical-offset="1275">
+            <state vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="1275">
               <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#1218#1228#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidParentheses.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ValidParentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.4068966" vertical-offset="1245" max-vertical-offset="2610">
+              <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -117,6 +126,7 @@
         <option value="$PROJECT_DIR$/RemoveDuplicatesfromSortedList.java" />
         <option value="$PROJECT_DIR$/MergeTwoSortedLists.java" />
         <option value="$PROJECT_DIR$/IntersectionofTwoLinkedLists.java" />
+        <option value="$PROJECT_DIR$/ValidParentheses.java" />
       </list>
     </option>
   </component>
@@ -241,7 +251,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="true" />
-    <property name="options.lastSelected" value="editor.preferences.appearance" />
+    <property name="options.lastSelected" value="preferences.sourceCode.Java" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -653,7 +663,7 @@
       <workItem from="1420870316848" duration="6048000" />
       <workItem from="1420898641267" duration="9969000" />
       <workItem from="1421239563300" duration="3303000" />
-      <workItem from="1421246393964" duration="8970000" />
+      <workItem from="1421246393964" duration="11764000" />
     </task>
     <task id="LOCAL-00001" summary="removeNth">
       <created>1421245253969</created>
@@ -665,7 +675,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28384000" />
+    <option name="totallyTimeSpent" value="31178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -731,32 +741,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MaximalRectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="705">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MergeSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1660" max-vertical-offset="2385">
-          <caret line="151" column="9" selection-start-line="151" selection-start-column="9" selection-end-line="151" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MajorityElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LRUCache.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1480" max-vertical-offset="2205">
@@ -1146,14 +1130,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8266476" vertical-offset="18998" max-vertical-offset="20295">
+          <caret line="1384" column="32" selection-start-line="1384" selection-start-column="30" selection-end-line="1384" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3324138" vertical-offset="674" max-vertical-offset="1635">
+          <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
+          <folding>
+            <element signature="docComment;method#push#0;class#Stack#0" expanded="false" />
+            <element signature="method#push#0;class#Stack#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/IntersectionofTwoLinkedLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.26206896" vertical-offset="550" max-vertical-offset="1275">
+        <state vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="1275">
           <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#1218#1228#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4068966" vertical-offset="1245" max-vertical-offset="2610">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
