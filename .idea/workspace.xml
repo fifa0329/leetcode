@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f8902e6-fbcd-4b87-aa89-c0afd57fa832" name="Default" comment="removeNth">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ValidParentheses.java" afterPath="$PROJECT_DIR$/ValidParentheses.java" />
-    </list>
+    <list default="true" id="8f8902e6-fbcd-4b87-aa89-c0afd57fa832" name="Default" comment="removeNth" />
     <ignored path="Leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -28,75 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MergeSortedArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MergeSortedArray.java">
+      <file leaf-file-name="MinStack.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MinStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1615" max-vertical-offset="2340">
-              <caret line="150" column="1" selection-start-line="150" selection-start-column="1" selection-end-line="150" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeTwoSortedLists.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MergeTwoSortedLists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1245">
-              <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InsertionSortList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InsertionSortList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InsertInterval.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InsertInterval.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntersectionofTwoLinkedLists.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IntersectionofTwoLinkedLists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="1275">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.46206897" vertical-offset="1270" max-vertical-offset="1995">
+              <caret line="107" column="9" selection-start-line="107" selection-start-column="9" selection-end-line="107" selection-end-column="9" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#1218#1228#0" expanded="true" />
+                <element signature="e#2450#2459#0" expanded="true" />
+                <element signature="e#2511#2520#0" expanded="true" />
+                <element signature="e#3015#3016#0" expanded="true" />
+                <element signature="e#3051#3052#0" expanded="true" />
+                <element signature="e#3078#3079#0" expanded="true" />
+                <element signature="e#3117#3118#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ValidParentheses.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ValidParentheses.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.4068966" vertical-offset="1245" max-vertical-offset="2610">
-              <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoveDuplicatesfromSortedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="640" max-vertical-offset="1365">
-              <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -127,6 +69,7 @@
         <option value="$PROJECT_DIR$/MergeTwoSortedLists.java" />
         <option value="$PROJECT_DIR$/IntersectionofTwoLinkedLists.java" />
         <option value="$PROJECT_DIR$/ValidParentheses.java" />
+        <option value="$PROJECT_DIR$/MinStack.java" />
       </list>
     </option>
   </component>
@@ -663,7 +606,7 @@
       <workItem from="1420870316848" duration="6048000" />
       <workItem from="1420898641267" duration="9969000" />
       <workItem from="1421239563300" duration="3303000" />
-      <workItem from="1421246393964" duration="11764000" />
+      <workItem from="1421246393964" duration="13532000" />
     </task>
     <task id="LOCAL-00001" summary="removeNth">
       <created>1421245253969</created>
@@ -675,7 +618,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31178000" />
+    <option name="totallyTimeSpent" value="32946000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -732,7 +675,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -741,14 +684,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LRUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1480" max-vertical-offset="2205">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MinimumDepthofBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="420">
@@ -1084,7 +1019,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="640" max-vertical-offset="1365">
+        <state vertical-scroll-proportion="0.4413793" vertical-offset="640" max-vertical-offset="1365">
           <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
           <folding />
         </state>
@@ -1165,6 +1100,21 @@
         <state vertical-scroll-proportion="-1.4068966" vertical-offset="1245" max-vertical-offset="2610">
           <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46206897" vertical-offset="1270" max-vertical-offset="1995">
+          <caret line="107" column="9" selection-start-line="107" selection-start-column="9" selection-end-line="107" selection-end-column="9" />
+          <folding>
+            <element signature="e#2450#2459#0" expanded="true" />
+            <element signature="e#2511#2520#0" expanded="true" />
+            <element signature="e#3015#3016#0" expanded="true" />
+            <element signature="e#3051#3052#0" expanded="true" />
+            <element signature="e#3078#3079#0" expanded="true" />
+            <element signature="e#3117#3118#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
