@@ -3,26 +3,23 @@ import java.util.*;
 /**
  * Created by wlx on 1/21/15.
  * Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
-
- push(x) -- Push element x onto stack.
- pop() -- Removes the element on top of the stack.
- top() -- Get the top element.
- getMin() -- Retrieve the minimum element in the stack.*
-
- 
- 
- 关键句！！！
- retrieving the minimum element in constant time.
- retrieving the minimum element in constant time.
- retrieving the minimum element in constant time.
- retrieving the minimum element in constant time.
- retrieving the minimum element in constant time.
+ * <p/>
+ * push(x) -- Push element x onto stack.
+ * pop() -- Removes the element on top of the stack.
+ * top() -- Get the top element.
+ * getMin() -- Retrieve the minimum element in the stack.*
+ * <p/>
+ * <p/>
+ * <p/>
+ * 关键句！！！
+ * retrieving the minimum element in constant time.
+ * retrieving the minimum element in constant time.
+ * retrieving the minimum element in constant time.
+ * retrieving the minimum element in constant time.
+ * retrieving the minimum element in constant time.
  */
-public class MinStack
-{
+public class MinStack {
 
-    
-   
 
 //    private ArrayList<Integer> list=new ArrayList<Integer>();
 //
@@ -68,16 +65,14 @@ public class MinStack
 //    
 
 
-    
     //以下是标准答案，
     //这道题的核心应该在MIN STACK
     //没有理解题目的意思
-    
-    
-    //题目让你push 最小值，pop最小值，top最小值
-    
-    //采取了这种答案，一开始没有理解题意
 
+
+    //题目让你push 最小值，pop最小值，top最小值
+
+    //采取了这种答案，一开始没有理解题意
 
 
 //    Min Stack My Submissions Question Solution
@@ -92,7 +87,7 @@ public class MinStack
 //
 //    If a new element is larger than the current minimum, we do not need to push it on to the min stack. When we perform the pop operation, check if the popped element is the same as the current minimum. If it is, pop it off the min stack too.
 //
-    
+
     private Stack<Integer> mStack = new Stack<Integer>();
     private Stack<Integer> mMinStack = new Stack<Integer>();
 

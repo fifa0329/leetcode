@@ -1,12 +1,12 @@
 import com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ;
 
 /**
- Implement strStr().
-
- Returns the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
-
- Update (2014-11-02):
- The signature of the function had been updated to return the index instead of the pointer. If you still see your function signature returns a char * or String, please click the reload button  to reset your code definition.
+ * Implement strStr().
+ * <p/>
+ * Returns the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+ * <p/>
+ * Update (2014-11-02):
+ * The signature of the function had been updated to return the index instead of the pointer. If you still see your function signature returns a char * or String, please click the reload button  to reset your code definition.
  */
 
 public class ImplementStrStr {
@@ -14,35 +14,31 @@ public class ImplementStrStr {
 
     public int strStr(String haystack, String needle) {
 
-        
+
         //下面是我自己写的答案
 
-        int pointer=0;
+        int pointer = 0;
 
-        char[] haystackchars=haystack.toCharArray();
-        char[] needlechars=needle.toCharArray();
-        
-        
-        while (pointer<=haystackchars.length-needlechars.length)
-        {
-            int i=0;
-            for (i = 0; i < needlechars.length; i++)
-            {
-                if (haystackchars[pointer+i]!=needlechars[i])
-                {
+        char[] haystackchars = haystack.toCharArray();
+        char[] needlechars = needle.toCharArray();
+
+
+        while (pointer <= haystackchars.length - needlechars.length) {
+            int i = 0;
+            for (i = 0; i < needlechars.length; i++) {
+                if (haystackchars[pointer + i] != needlechars[i]) {
                     pointer++;
                     break;
                 }
             }
-            if (i==needlechars.length)
-            {
+            if (i == needlechars.length) {
                 return pointer;
             }
         }
-        
+
 
         return -1;
-        
+
         //同时我解锁了
         //O(nm) runtime, O(1) space – Brute force:
 
@@ -56,14 +52,6 @@ public class ImplementStrStr {
 //        Average Rating: 3.7 (113 votes)
 //
 //        Is this solution helpful? Read our book to learn more.
-
-
-
-
-
-
-
-        
 
 
 //        没怎么看标准答案是怎么写的

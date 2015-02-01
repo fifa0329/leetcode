@@ -56,16 +56,14 @@ public class RemoveDuplicatesfromSortedList {
         //1,1,1 -> 1,1然后pointer就跳了，实际上不对，pointer应该跳到下面一个不一样的值才对
 
 
-        
         //依然很混乱 看了答案，觉得自己真心笨啊！错了之后，容易陷入细节，只想改好那个例子，应该再重新审视
-        
+
         //linkedlist 用好prev current next是最关键的！
-        
+
 
         //要理解，链表需要前后值，来做删除中间一个node的操作！！！
-        
-        
-        
+
+
         if (head == null)
             return head;
         int cur = head.val;

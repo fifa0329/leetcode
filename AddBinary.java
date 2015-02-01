@@ -14,44 +14,40 @@ public class AddBinary {
         //这么说 应该可以做
 
 
-        int lena=a.length();
-        int lenb=b.length();
-        int min=Integer.min(lena,lenb);
-int max=Integer.max(lena,lenb);
+        int lena = a.length();
+        int lenb = b.length();
+        int min = Integer.min(lena, lenb);
+        int max = Integer.max(lena, lenb);
 
-        char[] charsA=a.toCharArray();
-        char[] charsB=b.toCharArray();
+        char[] charsA = a.toCharArray();
+        char[] charsB = b.toCharArray();
 
-        Stack<Character> stack=new Stack<Character>();
+        Stack<Character> stack = new Stack<Character>();
 
 
-        int lastValue=0;
-        for (int i=0;i<min;i++)
-        {
-            int valueA= ToNumber(charsA[min - 1 - 0]);
+        int lastValue = 0;
+        for (int i = 0; i < min; i++) {
+            int valueA = ToNumber(charsA[min - 1 - 0]);
 
-            int valueB= ToNumber(charsB[min - 1 - 0]);
+            int valueB = ToNumber(charsB[min - 1 - 0]);
 
-            int total=valueA+valueB+lastValue;
+            int total = valueA + valueB + lastValue;
 
-            int shouldBe=total%2;
+            int shouldBe = total % 2;
 
             stack.push(ToChar(shouldBe));
 
-            lastValue=total/2;
+            lastValue = total / 2;
         }
 
-        if (lastValue==0)
-        {
+        if (lastValue == 0) {
             //又得判断哪个是max的进行加上，太慢了，而且实际上只需要做字符串拼接即可，不管了
-            for (int i=0;i<max-min;i++)
-            {
+            for (int i = 0; i < max - min; i++) {
 
             }
         }
 
-        if (lastValue==1)
-        {
+        if (lastValue == 1) {
             //余下的max-min进行进位操作
         }
 
@@ -65,7 +61,7 @@ int max=Integer.max(lena,lenb);
 
 
 
-/*
+
         int i = a.length() - 1;
         int j = b.length() - 1;
         int da = 0;
@@ -99,52 +95,20 @@ int max=Integer.max(lena,lenb);
         }
         return result.reverse().toString();
 
-*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
     }
 
 
-    public int ToNumber(char c)
-    {
-        if (c=='0')
+    public int ToNumber(char c) {
+        if (c == '0')
             return 0;
         return 1;
     }
 
-    public char ToChar(int i)
-    {
-        if (i==0)
+    public char ToChar(int i) {
+        if (i == 0)
             return '0';
         return '1';
     }

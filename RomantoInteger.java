@@ -63,29 +63,6 @@ MCMXCVI
 */
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         int result = 0;
         if (s.length() != 0) {
             int prev = getDigit(s.charAt(s.length() - 1));

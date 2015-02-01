@@ -39,7 +39,7 @@ public class PlusOne {
 
             //不能这么判断，应该选用能够及时脱身的方式
             /*
-			if (sum/10!=0)
+            if (sum/10!=0)
 			{
 				
 				

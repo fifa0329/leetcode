@@ -100,7 +100,7 @@ public class RemoveDuplicatesfromSortedArray {
 		
 		
 		/*
-		
+
 		if (A.length == 0)
 			return 0;
 		else if (A.length == 1)
