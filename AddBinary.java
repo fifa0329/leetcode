@@ -6,6 +6,49 @@
 
 public class AddBinary {
     public String addBinary(String a, String b) {
+        
+        //string to Binary first???
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         int i = a.length() - 1;
         int j = b.length() - 1;
         int da = 0;
