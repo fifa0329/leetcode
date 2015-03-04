@@ -8,33 +8,19 @@ public class PlusOne {
     public int[] plusOne(int[] digits) {
 
         //第一想法是进制转换 先10再2，后发现自己进制转换上面基本功也不行
-
         //但是直接来又需要进位感觉特别麻烦
-
         //看答案了
-
         //发现实际上是十进制[1,2,3]==123?321?
         //123
-
-
         //奇淫巧计 字符串处理
         //感觉不靠谱
-
         //该题可以引申为增加任意数
 
-
         int length = digits.length;
-
-
         int add = 1;
-
-
         for (int i = digits.length - 1; i >= 0; i--) {
             int sum = digits[i] + add;
-
-
             int remain = sum % 10;
-
             digits[i] = remain;
 
             //不能这么判断，应该选用能够及时脱身的方式
