@@ -56,8 +56,8 @@ public class CompareVersionNumbers {
          */
 
 
-        String[] version1s=version1.split(".");
-        String[] version2s=version2.split(".");
+        String[] version1s=version1.split("\\.");
+        String[] version2s=version2.split("\\.");
 
 
         int version1num=version1s.length;
@@ -104,6 +104,21 @@ Expected:	1
 
 
 
+发现是我一开始不熟悉java的regex
+但是我发现答案还是错了
+
+Input:	"1.0", "1"
+Output:	1
+Expected:	0
+
+        if (version1num>min)
+            return 1;
+        if (version2num>min)
+            return -1;
+        return 0;
+
+        我这种判断是不对的，因为1.0 应该是 等于 1
+
 
 
 我觉得太烦了，抄了正确答案
@@ -121,6 +136,9 @@ Expected:	1
             if(ver1 < ver2) return -1;
         }
         return 0;
+
+        方法确实很经典
+        相当于是用0补全 比较长位
          */
 
 

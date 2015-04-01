@@ -16,17 +16,11 @@ public class Program {
         // TODO Auto-generated method stub
 
 
-        StringtoIntegerAtoi a=new StringtoIntegerAtoi();
 
-        int j=a.atoi("111111111111111111111111111111111111111111111111111111111111111111111");
 
-        
-        ExcelSheetColumnTitle title=new ExcelSheetColumnTitle();
-        
-        
-        String b=title.convertToTitle(27);
-        
-        System.out.print(b);
+        CompareVersionNumbers c=new CompareVersionNumbers();
+
+        c.compareVersion("1.2.3","2");
         
     }
 
