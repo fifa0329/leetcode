@@ -17,6 +17,42 @@ import java.util.ArrayList;
 
 public class ZigZagConversion {
     public String convert(String s, int nRows) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         if (nRows <= 1 || s.length() < 2)
             return s;
         ArrayList<StringBuilder> sbs = new ArrayList<StringBuilder>();

@@ -43,7 +43,7 @@ public class LongestCommonPrefix {
 
 //        （1）我的第一个误区，老想着比较string，其实可以比较每一个char，通过index推进即可
 //        （2）我的第二个误区，担心如果以第一个为标杆，会导致其中某个string爆掉，就没有再想了
-        
+
 
 
         if (strs.length == 0)
