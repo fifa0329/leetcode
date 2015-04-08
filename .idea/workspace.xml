@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f8902e6-fbcd-4b87-aa89-c0afd57fa832" name="Default" comment="removeNth">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LongestCommonPrefix.java" afterPath="$PROJECT_DIR$/LongestCommonPrefix.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZigZagConversion.java" afterPath="$PROJECT_DIR$/ZigZagConversion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LengthofLastWord.java" afterPath="$PROJECT_DIR$/LengthofLastWord.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,81 +29,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RomantoInteger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RomantoInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="2052">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="101" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringtoIntegerAtoi.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/StringtoIntegerAtoi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.71284634" vertical-offset="1389" max-vertical-offset="1786">
-              <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ValidPalindrome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ValidPalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1066" max-vertical-offset="1463">
-              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImplementStrStr.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ImplementStrStr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="167" max-vertical-offset="1634">
-              <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ZigZagConversion.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ZigZagConversion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="667" max-vertical-offset="1482">
-              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="513" max-vertical-offset="2106">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountandSay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CountandSay.java">
+      <file leaf-file-name="LengthofLastWord.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LengthofLastWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1332" max-vertical-offset="1729">
-              <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestCommonPrefix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LongestCommonPrefix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="581" max-vertical-offset="1330">
-              <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CompareVersionNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CompareVersionNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="970" max-vertical-offset="3002">
-              <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+            <state vertical-scroll-proportion="0.509901" vertical-offset="717" max-vertical-offset="1593">
+              <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -128,6 +68,7 @@
         <option value="$PROJECT_DIR$/CountandSay.java" />
         <option value="$PROJECT_DIR$/LongestCommonPrefix.java" />
         <option value="$PROJECT_DIR$/ZigZagConversion.java" />
+        <option value="$PROJECT_DIR$/LengthofLastWord.java" />
       </list>
     </option>
   </component>
@@ -214,8 +155,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -236,6 +175,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -246,7 +187,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaworkspace/异步库/fucking-java-concurrency" />
     <property name="FullScreen" value="false" />
     <property name="options.lastSelected" value="project.propCompiler" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -497,34 +438,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32913387" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24816984" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19253294" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3984252" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3984252" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32913387" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -568,13 +509,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SameTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BinaryTreePreorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="795">
@@ -912,59 +846,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="10089" max-vertical-offset="30419">
           <caret line="531" column="30" selection-start-line="531" selection-start-column="22" selection-end-line="531" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#60784#0" expanded="false" />
-            <element signature="e#6101#6102#0" expanded="false" />
-            <element signature="e#6171#6172#0" expanded="false" />
-            <element signature="e#7967#7968#0" expanded="false" />
-            <element signature="e#8013#8014#0" expanded="false" />
-            <element signature="e#9482#9483#0" expanded="false" />
-            <element signature="e#9528#9529#0" expanded="false" />
-            <element signature="e#10902#10903#0" expanded="false" />
-            <element signature="e#10948#10949#0" expanded="false" />
-            <element signature="e#15724#15725#0" expanded="false" />
-            <element signature="e#15779#15780#0" expanded="false" />
-            <element signature="e#32532#32533#0" expanded="false" />
-            <element signature="e#32566#32567#0" expanded="false" />
-            <element signature="e#33488#33489#0" expanded="false" />
-            <element signature="e#33522#33523#0" expanded="false" />
-            <element signature="e#33736#33737#0" expanded="false" />
-            <element signature="e#33771#33772#0" expanded="false" />
-            <element signature="e#33891#33892#0" expanded="false" />
-            <element signature="e#33919#33920#0" expanded="false" />
-            <element signature="e#34168#34169#0" expanded="false" />
-            <element signature="e#34202#34203#0" expanded="false" />
-            <element signature="e#34414#34415#0" expanded="false" />
-            <element signature="e#34449#34450#0" expanded="false" />
-            <element signature="e#34664#34665#0" expanded="false" />
-            <element signature="e#34700#34701#0" expanded="false" />
-            <element signature="e#35161#35162#0" expanded="false" />
-            <element signature="e#35199#35200#0" expanded="false" />
-            <element signature="e#35486#35487#0" expanded="false" />
-            <element signature="e#35532#35533#0" expanded="false" />
-            <element signature="e#35824#35825#0" expanded="false" />
-            <element signature="e#35852#35853#0" expanded="false" />
-            <element signature="e#37816#37817#0" expanded="false" />
-            <element signature="e#37859#37860#0" expanded="false" />
-            <element signature="e#46394#46395#0" expanded="false" />
-            <element signature="e#46458#46459#0" expanded="false" />
-            <element signature="e#47036#47037#0" expanded="false" />
-            <element signature="e#47092#47093#0" expanded="false" />
-            <element signature="e#47615#47616#0" expanded="false" />
-            <element signature="e#47675#47676#0" expanded="false" />
-            <element signature="e#48444#48445#0" expanded="false" />
-            <element signature="e#48491#48492#0" expanded="false" />
-            <element signature="e#56465#56466#0" expanded="false" />
-            <element signature="e#56523#56524#0" expanded="false" />
-            <element signature="e#57650#57651#0" expanded="false" />
-            <element signature="e#57708#57709#0" expanded="false" />
-            <element signature="e#59796#59797#0" expanded="false" />
-            <element signature="e#59824#59825#0" expanded="false" />
-            <element signature="e#60191#60192#0" expanded="false" />
-            <element signature="e#60228#60229#0" expanded="false" />
-            <element signature="e#60595#60596#0" expanded="false" />
-            <element signature="e#60632#60633#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -972,7 +853,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="2945">
           <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -980,7 +860,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1761" max-vertical-offset="2318">
           <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -999,7 +878,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20765027" vertical-offset="0" max-vertical-offset="366">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1007,7 +885,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="970" max-vertical-offset="3002">
           <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1015,7 +892,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1332" max-vertical-offset="1729">
           <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1023,7 +899,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="581" max-vertical-offset="1330">
           <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1039,7 +914,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1066" max-vertical-offset="1463">
           <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1047,22 +921,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="167" max-vertical-offset="1634">
           <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringtoIntegerAtoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2475247" vertical-offset="1620" max-vertical-offset="2538">
+          <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ZigZagConversion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="667" max-vertical-offset="1482">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="513" max-vertical-offset="2106">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StringtoIntegerAtoi.java">
+    <entry file="file://$PROJECT_DIR$/LengthofLastWord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71284634" vertical-offset="1389" max-vertical-offset="1786">
-          <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.509901" vertical-offset="717" max-vertical-offset="1593">
+          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
           <folding />
         </state>
       </provider>
