@@ -12,7 +12,19 @@
 
 public class CountandSay {
     public String countAndSay(int n) {
-        StringBuilder s1 = new StringBuilder("1");
+
+
+
+        //简单看了一下题目 大概理解了意思
+        //就是要不断的生成下去，其实就是解析n-1的那个字符串
+
+        //我准备写一个根据字符串解析的函数
+
+
+
+
+        //现在看了答案，发现这种iteration 顺序性的，可以尝试用for 做到不断迭代
+         StringBuilder s1 = new StringBuilder("1");
         StringBuilder s2 = new StringBuilder();
         for (int i = 1; i < n; i++) {
             int j = 0;
@@ -35,5 +47,40 @@ public class CountandSay {
             s2 = new StringBuilder();
         }
         return s1.toString();
+
+
     }
+//
+//    String parseNextString(String a)
+//    {
+//        String result="";
+//        char[] as=a.toCharArray();
+//        int length=as.length;
+//
+//
+//        int num=0;
+//        char lastChar=as[0];
+//        for (int i = 0; i < length; i++) {
+//            if(lastChar==as[]
+//            //因为一开始看了一眼答案，所以
+//            //越写越崩溃
+//            //觉得出入挺大的
+//
+//
+//        }
+//
+//
+//
+//
+//
+//
+//
+//        return result;
+//    }
+
+
+
+
+
+
 }

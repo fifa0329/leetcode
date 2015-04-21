@@ -1,3 +1,5 @@
+import sun.applet.Main;
+
 /**
  * Implement atoi to convert a string to an integer.
  * <p/>
@@ -31,7 +33,24 @@
  */
 
 public class StringtoIntegerAtoi {
+
+
+    //不得不承认 如果让我来写的话，我肯定对于一些奇葩的输入不做考虑
+    //事实上，是需要考虑很多奇葩输入的，比如一些空格，一些奇怪的字符，等等
+    //加上这些东西之后，问题就特别多了
+    //（1）另外字符转数字是要写个枚举吗？——不需要，判断字符串的ASC码间隔关系
+//    if (c >= '0' && c <= '9') {
+    //      num *= 10;
+    //    num += c - '0';
+    //（2）另外越界怎么处理那？？？——用Long来处理，其他题目也可以用这个思路，用一个比她大一级的类型来进行计算
+
+    //这道题我没有做！！！
+
+
     public int atoi(String str) {
+
+//        Integer.parseInt("str");
+//        有点类似但是不一样
         str = str.trim();
         int length = str.length();
         if (length == 0)
@@ -65,4 +84,6 @@ public class StringtoIntegerAtoi {
         }
         return minus ? new Long(0 - num).intValue() : new Long(num).intValue();
     }
+
+
 }

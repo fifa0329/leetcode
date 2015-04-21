@@ -78,7 +78,7 @@ public class RemoveElement {
 		
 		
 		/*
-		
+
 		
 		
 		if (A.length == 0)

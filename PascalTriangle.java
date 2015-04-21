@@ -75,7 +75,7 @@ public class PascalTriangle {
 		
 		
 		/*
-		
+
 		
 		ArrayList<ArrayList<Integer>> pt = new ArrayList<ArrayList<Integer>>();
 		int k = 1;

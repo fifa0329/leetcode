@@ -18,6 +18,7 @@ public class LRUCache {
     private BidirectionalList<Integer, Integer> cacheList = new BidirectionalList<Integer, Integer>();
     private int cacheSize = 0;
     private int capacity;
+
     public LRUCache(int capacity) {
         this.capacity = capacity;
     }

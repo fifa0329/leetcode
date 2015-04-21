@@ -6,10 +6,8 @@ import java.util.Stack;
  * The brackets must close in the correct order, "()" and "()[]{}" are all valid but "(]" and "([)]" are not.
  */
 
-public class ValidParentheses
-{
-    public boolean isValid(String s)
-    {
+public class ValidParentheses {
+    public boolean isValid(String s) {
 
         //看了答案之后，才自己用for 来做了一遍
         //核心：（1）要用stack来保证成功的一对，立马消除，（2）如果最后成功，则stack应该为empty
@@ -22,77 +20,60 @@ public class ValidParentheses
         stack.add(chars[0]);
 
 
-        for (int i = 1; i < chars.length; i++)
-        {
-            if (chars[i] == '(')
-            {
+        for (int i = 1; i < chars.length; i++) {
+            if (chars[i] == '(') {
                 stack.add('(');
                 continue;
             }
 
 
-            if (chars[i] == ')')
-            {
-                if (!stack.empty() && stack.peek() == '(')
-                {
+            if (chars[i] == ')') {
+                if (!stack.empty() && stack.peek() == '(') {
                     stack.pop();
                     continue;
-                }
-                else
-                {
+                } else {
                     return false;
                 }
             }
 
 
-            if (chars[i] == '{')
-            {
+            if (chars[i] == '{') {
                 stack.add('{');
                 continue;
             }
 
 
-            if (chars[i] == '}')
-            {
-                if (!stack.empty() && stack.peek() == '{')
-                {
+            if (chars[i] == '}') {
+                if (!stack.empty() && stack.peek() == '{') {
                     stack.pop();
                     continue;
-                }
-                else
-                {
+                } else {
                     return false;
                 }
             }
 
 
-            if (chars[i] == '[')
-            {
+            if (chars[i] == '[') {
                 stack.add('[');
                 continue;
             }
 
 
-            if (chars[i] == ']')
-            {
-                if (!stack.empty() && stack.peek() == '[')
-                {
+            if (chars[i] == ']') {
+                if (!stack.empty() && stack.peek() == '[') {
                     stack.pop();
                     continue;
-                }
-                else
-                {
+                } else {
                     return false;
                 }
             }
         }
-        
+
 //        直接return true是错的
 //        return true;
 //        Input:	"["
 //        Output:	true
 //        Expected:	false
-
 
 
         //改成以下后，答案就正确了
