@@ -19,6 +19,34 @@
 
 public class ReverseInteger {
     public int reverse(int x) {
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         int num = Math.abs(x);
         int ret = 0;
         while (num != 0) {
